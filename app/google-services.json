@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "352852268652",
+    "firebase_url": "https://chatme-b8ae7.firebaseio.com",
+    "project_id": "chatme-b8ae7",
+    "storage_bucket": "chatme-b8ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352852268652:android:924275a00724ec9f72ea49",
+        "android_client_info": {
+          "package_name": "com.example.chatmeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352852268652-a0uradpf8q1rb0ai1s4q6to6imfdh3n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkZfvC1VX4yjsB9FGmxnshY44PxObcFjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352852268652-a0uradpf8q1rb0ai1s4q6to6imfdh3n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352852268652:android:06fd4837b182053e72ea49",
+        "android_client_info": {
+          "package_name": "com.yohbmeetup.yohb.activities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352852268652-1thunf677h1t5855o173ugrqne1a8ckd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yohbmeetup.yohb.activities",
+            "certificate_hash": "464c589204af2ea010a5640cd4a427bc0a689d6c"
+          }
+        },
+        {
+          "client_id": "352852268652-u4d1l2svf6ecv6vt3vjn3i5r5nmn96rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yohbmeetup.yohb.activities",
+            "certificate_hash": "753f77dda0ef22479cdf05f4df84f28c35335e21"
+          }
+        },
+        {
+          "client_id": "352852268652-je5jorpu6ijhe4bnssgpb3tko698vu51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yohbmeetup.yohb.activities",
+            "certificate_hash": "143830bd479db6f8fb73f447eb2cfe0a2d2187f8"
+          }
+        },
+        {
+          "client_id": "352852268652-5o8jp0haf7lkmsgeg7oqma8i77oa8fl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yohbmeetup.yohb.activities",
+            "certificate_hash": "935ed10472a42c8bfaa4ceb05b97834a072646ea"
+          }
+        },
+        {
+          "client_id": "352852268652-a0uradpf8q1rb0ai1s4q6to6imfdh3n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkZfvC1VX4yjsB9FGmxnshY44PxObcFjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352852268652-a0uradpf8q1rb0ai1s4q6to6imfdh3n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

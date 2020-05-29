@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#FFFFFF"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_height="100dp"
+        android:src="@drawable/profiles"
+        android:layout_marginTop="56dp"
+        android:id="@+id/photo"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:text="Upload Your Photo"
+        android:textSize="17dp"
+        android:id="@+id/x"
+        android:visibility="invisible"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/photo"
+        android:layout_marginTop="23dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#131313"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/idimage"
+        android:background="#B3B0B0"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="1dp"
+        app:srcCompat="@drawable/ic_add_circle"
+        android:layout_below="@+id/x"
+        android:contentDescription="TODO"></ImageView>
+    <TextView
+        android:layout_width="300dp"
+        android:textColorHint="#222121"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_height="40dp"
+        android:id="@+id/idno"
+        android:layout_marginTop="2dp"
+        android:textSize="17dp"
+        android:layout_below="@+id/idimage"
+        android:hint="Your Id Proof Number"></TextView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:background="#4CAF50"
+        android:id="@+id/submitbtn"
+        android:layout_below="@id/idno"
+        android:text="Verify"></Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:background="#F44336"
+        android:id="@+id/submitbtn1"
+        android:layout_below="@id/submitbtn"
+        android:text="Cancel"></Button>
+
+
+</RelativeLayout>
